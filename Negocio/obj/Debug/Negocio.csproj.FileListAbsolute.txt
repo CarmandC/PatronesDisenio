@@ -1,0 +1,33 @@
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Negocio.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\obj\Debug\Negocio.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Datos.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Memory.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Datos.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Memory.xml
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\obj\Debug\Negocio.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Negocio.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Datos.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Memory.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Datos.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Memory.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\Negocio\bin\Debug\System.Buffers.xml

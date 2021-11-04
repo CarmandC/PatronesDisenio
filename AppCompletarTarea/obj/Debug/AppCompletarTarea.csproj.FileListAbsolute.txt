@@ -1,0 +1,40 @@
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csprojAssemblyReference.cache
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csproj.CoreCompileInputs.cache
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.exe.config
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.exe
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Negocio.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Negocio.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csproj.CopyComplete
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.exe
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Memory.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Buffers.dll
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.pdb
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.dll.config
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Memory.xml
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\armin.cerruto\source\repos\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Buffers.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.exe.config
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.exe
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\AppCompletarTarea.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Negocio.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Memory.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Buffers.dll
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Negocio.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\Datos.dll.config
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Memory.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\bin\Debug\System.Buffers.xml
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.exe
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.pdb
+C:\Users\TOSHIBA\OneDrive\Escritorio\Nueva carpeta\SlnCompletarTareas\AppCompletarTarea\obj\Debug\AppCompletarTarea.csproj.CopyComplete
